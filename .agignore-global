@@ -1,0 +1,14 @@
+spec/karma
+spec/spec_help*
+spec/stylesheets
+spec/test_files
+*spec*
+*pub*
+*lib/assets*
+*lib/capistrano*
+*go*
+*lib*
+*go/bin*
+*go/pkg*
+*go/testdata*
+test/factories.rb
